@@ -4,8 +4,8 @@ Data and code for: "Spitzer and Racine. A Replication Study" by Christof Schöch
 
 ## Contents 
 
-* data: XML-TEI files with token-level annotation for morphology (Freeling) and semantics (WordNet). 
 * analysis: Documentation of stylistic patterns and their corresponding CQP queries
+* data: XML-TEI files with token-level annotation for morphology (Freeling) and semantics (WordNet). 
 
 ## See also
 
