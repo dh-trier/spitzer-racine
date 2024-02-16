@@ -1,6 +1,6 @@
 # spitzer-racine
 
-Data and code for: "Spitzer and Racine. A Replication Study" by Christof Schöch. 
+Data and code for: Christof Schöch: "Repetitive Research. Spitzer and Racine", in: Hesselbach, Robert, et al. (ed.): _Digital Stylistics in Romance Studies and Beyond_. Heidelberg: Heidelberg University Publishing, 2024, pp. 119–148. DOI: [10.17885/heiup.1157.c19369](https://doi.org/10.17885/heiup.1157.c19369). 
 
 ## Contents 
 
